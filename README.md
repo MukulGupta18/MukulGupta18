@@ -13,7 +13,7 @@
 
 <h2>🚀 Projects & Highlights:</h2>
 <p style="font-size:16px;">
-- <b>TextUtils:</b> A versatile web app with features like Upper Case Words, Lower Case Words, Copy Text, Clear Text, Remove Extra Spaces, Dark Mode/Light Mode, Text Summarization, and Display Reading Time. <img src="https://github.com/username/repository/blob/main/assets/textutils_demo.gif" alt="TextUtils Demo" style="width:50%;"/><br>
+- <b>TextUtils:</b> A versatile web app with features like Upper Case Words, Lower Case Words, Copy Text, Clear Text, Remove Extra Spaces, Dark Mode/Light Mode, Text Summarization, and Display Reading Time.[TextUtils](https://textify-hub.netlify.app/)
 - <b>Logistics Website:</b> Developed a comprehensive logistics website to streamline transportation and logistics management. [Logistics Website](http://t3logistics.in)<br>
 - <b>News App:</b> Created a dynamic news app that delivers the latest news articles based on user preferences.
 </p>
