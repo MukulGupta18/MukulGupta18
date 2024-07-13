@@ -1,4 +1,4 @@
-👋 Hi, I'm Mukul Gupta
+<p style="font-size:20px;">👋 Hi, I'm Mukul Gupta </p>
 
 I am a dedicated software developer with a strong foundation in both front-end and back-end technologies. I have a passion for creating innovative solutions and a proven track record of working on diverse projects that showcase my technical and problem-solving abilities.
 
