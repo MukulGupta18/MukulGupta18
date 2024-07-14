@@ -6,7 +6,7 @@
 <p style="font-size:16px;">
 - <b>Programming Languages:</b> Python, JavaScript<br>
 - <b>Front-End Technologies:</b> HTML5, CSS3, ReactJs, Bootstrap<br>
-- <b>Back-End Technologies:</b> Node.js<br>
+- <b>Back-End Technologies:</b> Node.js, Express.js<br>
 - <b>Databases:</b> MySQL, MongoDB<br>
 - <b>Tools:</b> VS Code, Git, GitHub
 </p>
