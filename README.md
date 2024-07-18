@@ -15,7 +15,8 @@
 <p style="font-size:16px;">
 - <b>TextUtils:</b> A versatile web app with features like Upper Case Words, Lower Case Words, Copy Text, Clear Text, Remove Extra Spaces, Dark Mode/Light Mode, Text Summarization, and Display Reading Time. [TextUtils Demo](https://textify-hub.netlify.app/)<br>
 - <b>Logistics Website:</b> Developed a comprehensive logistics website to streamline transportation and logistics management. [Logistics Website](http://t3logistics.in)<br>
-- <b>News App:</b> Created a dynamic news app that delivers the latest news articles based on user preferences.
+- <b>News App:</b> Created a dynamic news app that delivers the latest news articles based on user preferences.<br>
+- <b>NexusNotation:</b> Developed a powerful note-taking application that allows users to create, edit, and organize their notes efficiently.
 </p>
 
 <h2>💼 Professional Experience:</h2>
