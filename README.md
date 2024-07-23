@@ -35,7 +35,7 @@
 
 <h2>📜 Certifications:</h2>
 <p style="font-size:16px;">
-- <b>Advanced IT & Professional Skills by Tech Mahindra</b><br>
+- <b>Tech Mahindra: Advanced IT & Professional Skills</b><br>
 - <b>Core Java Programming by Sky High</b><br>
 - <b>Microsoft Certified Azure AI Fundamentals</b><br>
 - <b>IBM Certified Cyber Security Fundamentals</b><br>
