@@ -33,13 +33,13 @@
 - <b>Bachelor's in Software Development, Guru Gobind Singh Indraprastha University (2018-2021):</b> Focused on core software development principles and practices.
 </p>
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Achievement:</h2>
 <p style="font-size:16px;">
 - <b>Tech Mahindra: Advanced IT & Professional Skills</b><br>
-- <b>Core Java Programming by Sky High</b><br>
-- <b>Microsoft Certified Azure AI Fundamentals</b><br>
-- <b>IBM Certified Cyber Security Fundamentals</b><br>
-- <b>Training in DTP by CICS</b>
+- <b>SKY High Certified: Core Java Programming</b><br>
+- <b>Microsoft Certified: Azure AI Fundamentals</b><br>
+- <b>IBM Certified: Cyber Security Fundamentals</b><br>
+- <b>CICS Certified: Desktop publishing</b>
 </p>
 
 <p style="font-size:18px;">I am always open to new opportunities and collaborations. Let's connect and create something amazing together!</p>
