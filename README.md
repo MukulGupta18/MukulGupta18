@@ -23,8 +23,8 @@
 
 <h2>💼 Professional Experience:</h2>
 <p style="font-size:16px;">
-- <b>Technical Support·Apprenticeship at Sony India Pvt Ltd (Jul 2022 - Oct 2022):</b> Troubleshot technical issues, diagnosed and repaired faults, installed hardware and software, and followed up with clients to ensure problem resolution. <br>
-- <b>Web Developer at Tradezie Retails Pvt Ltd (Sep 2021 - Jul 2022):</b> Developed webpage layouts, wrote code, edited website content, and made adjustments based on company specifications.<br>
+- <b>Backend Developer·Internship at PearlThoughts (sep 2024 - sep 2024):</b> Troubleshot technical issues, diagnosed and repaired faults, installed hardware and software, and followed up with clients to ensure problem resolution. <br>
+- <b>Web Developer at Tradezie Retails Pvt Ltd (Sep 2021 - sep 2022):</b> Developed webpage layouts, wrote code, edited website content, and made adjustments based on company specifications.<br>
 </p>
 
 <h2>🎓 Education:</h2>
