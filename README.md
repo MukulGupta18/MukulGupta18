@@ -23,7 +23,7 @@
 
 <h2>💼 Professional Experience:</h2>
 <p style="font-size:16px;">
-- <b>Backend Developer·Internship at PearlThoughts (sep 2024 - sep 2024):</b> Troubleshot technical issues, diagnosed and repaired faults, installed hardware and software, and followed up with clients to ensure problem resolution. <br>
+- <b>Backend Developer·Internship at PearlThoughts (sep 2024 - sep 2024):</b> Troubleshot technical issues and followed up with clients to ensure problem resolution. <br>
 - <b>Web Developer at Tradezie Retails Pvt Ltd (Sep 2021 - sep 2022):</b> Developed webpage layouts, wrote code, edited website content, and made adjustments based on company specifications.<br>
 </p>
 
